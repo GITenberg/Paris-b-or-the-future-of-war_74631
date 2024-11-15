@@ -1,11 +1,16 @@
 _repo: Paris-b-or-the-future-of-war_74631
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74631-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Hart, B. H. Liddell
     gutenberg_agent_id: '57583'
     url: http://www.gutenberg.org/2009/agents/57583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74631#Paris-b-or-the-future-of-war
 gutenberg_issued: '2024-10-23'
 gutenberg_type: Text
 identifiers:
